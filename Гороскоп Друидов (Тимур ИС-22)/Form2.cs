@@ -17,10 +17,5 @@ namespace Гороскоп_Друидов__Тимур_ИС_22_
             InitializeComponent();
             pictureBox1.Load("howuse.png");
         }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
