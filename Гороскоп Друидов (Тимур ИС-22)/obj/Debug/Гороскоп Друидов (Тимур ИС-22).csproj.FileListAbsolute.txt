@@ -1,0 +1,41 @@
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe.config
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.AssemblyReference.cache
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.SuggestedBindingRedirects.cache
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Form1.resources
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Properties.Resources.resources
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.GenerateResource.cache
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.CoreCompileInputs.cache
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.zastavka.resources
+D:\ИС-22\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.about.resources
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe.config
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.AssemblyReference.cache
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.about.resources
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Form1.resources
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Properties.Resources.resources
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.zastavka.resources
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.GenerateResource.cache
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.CoreCompileInputs.cache
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
+C:\Users\Abdurakhamon\Downloads\Гороскоп Друидов (Тимур ИС-22)\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Form2.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe.config
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\bin\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.AssemblyReference.cache
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.about.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Form1.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Form2.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.Properties.Resources.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп_Друидов__Тимур_ИС_22_.zastavka.resources
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.GenerateResource.cache
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).csproj.CoreCompileInputs.cache
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).exe
+C:\Users\Abdurakhamon\Documents\Visual studio project\Horoscope\Гороскоп Друидов (Тимур ИС-22)\obj\Debug\Гороскоп Друидов (Тимур ИС-22).pdb
